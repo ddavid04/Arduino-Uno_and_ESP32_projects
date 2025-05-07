@@ -8,8 +8,8 @@ This repository is a growing archive of small, fun, and useful projects built wi
 
 ## 🧰 What's Inside
 
-- 🟦 **Arduino Uno projects** — basic sketches, sensors, and fun logic
-- 🟧 **ESP32 projects** — Wi-Fi based tools, RGB control, web interfaces, and more
+- 🟦 <a href="https://github.com/ddavid04/Arduino-Uno_and_ESP32_projects/tree/main/ARDUINO-UNO-projects">**Arduino Uno projects**</a> — basic sketches, sensors, and fun logic. 
+- 🟧 <a href="https://github.com/ddavid04/Arduino-Uno_and_ESP32_projects/tree/main/ESP32-S3-N16R8-WROOM-1-projects">**ESP32 projects**</a> — Wi-Fi based tools, RGB control, web interfaces, and more
 
 Each project has:
 - Source code (`.ino`)
