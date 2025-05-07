@@ -50,7 +50,7 @@ Go to `Tools > Manage Libraries`, search for **Adafruit NeoPixel**, and install 
 1. After flashing, the ESP32 will start as a Wi-Fi hotspot:
 ```
 SSID: ESP32-RGB
-Password: strongpass
+Password: esp32password
 ```
 2. Connect to that Wi-Fi from your phone or computer
 3. Open a browser and go to: ```http://192.168.4.1```
